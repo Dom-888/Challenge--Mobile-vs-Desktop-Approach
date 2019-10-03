@@ -1,4 +1,4 @@
-# Contains two Codeinstitute challenges designed to explore the mobile-first approach
+# Contains two Codeinstitute challenges designed to explore the difference between the mobile-first approach and the desktop-first approach
 
 <br>
 
